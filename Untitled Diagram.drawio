@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T15:50:48.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="-sMqcU3_9eIpTVrDa4LE" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T16:04:45.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="xNa-6tprsl-sGSV1rT2Q" version="16.6.7" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1929" dy="1022" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1240" dy="657" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="Magic Link" lucidchartObjectId="PiOZ4DX_Big-" id="aTxPhsPDwdjpoUrH5r-v-144">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="756.86" y="2" width="120" height="90" as="geometry" />
+            <mxGeometry x="928.86" y="2" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="ZiOZGguRaLmm" id="aTxPhsPDwdjpoUrH5r-v-145">
@@ -28,17 +28,17 @@
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Manpower&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Group &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="JkOZE8Wvqn3B" id="aTxPhsPDwdjpoUrH5r-v-148">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="1554.8600000000001" y="182" width="141" height="90" as="geometry" />
+            <mxGeometry x="1649.8600000000001" y="182" width="141" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="StegMann" lucidchartObjectId="2kOZYdI3XuVO" id="aTxPhsPDwdjpoUrH5r-v-149">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="1764.86" y="179" width="146" height="90" as="geometry" />
+            <mxGeometry x="2606.8599999999997" y="179" width="146" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="StegPlus" lucidchartObjectId="nlOZSswLDvKH" id="aTxPhsPDwdjpoUrH5r-v-150">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="1974.86" y="179" width="141" height="90" as="geometry" />
+            <mxGeometry x="2816.8599999999997" y="179" width="141" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="QlOZ30-aLBsC" id="aTxPhsPDwdjpoUrH5r-v-151">
@@ -89,7 +89,7 @@
         </mxCell>
         <UserObject label="Spanish" lucidchartObjectId="yoOZtOEQ.x4f" id="aTxPhsPDwdjpoUrH5r-v-157">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="104.86" y="429" width="90" height="60" as="geometry" />
+            <mxGeometry x="109" y="437" width="90" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="GoOZQtOKytFp" id="aTxPhsPDwdjpoUrH5r-v-158">
@@ -104,7 +104,7 @@
         </mxCell>
         <UserObject label="German" lucidchartObjectId="PoOZZvPEHMNO" id="aTxPhsPDwdjpoUrH5r-v-159">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="104.86" y="568" width="90" height="60" as="geometry" />
+            <mxGeometry x="109" y="571" width="90" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-160" target="aTxPhsPDwdjpoUrH5r-v-223">
@@ -112,7 +112,7 @@
         </mxCell>
         <UserObject label="Dutch" lucidchartObjectId="2oOZGnbe2nEk" id="aTxPhsPDwdjpoUrH5r-v-160">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="104.86" y="712" width="90" height="60" as="geometry" />
+            <mxGeometry x="110" y="710" width="90" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-161" target="aTxPhsPDwdjpoUrH5r-v-225">
@@ -132,9 +132,7 @@
         </UserObject>
         <UserObject label="" lucidchartObjectId="KpOZp.D63iBw" id="aTxPhsPDwdjpoUrH5r-v-163">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=-0.004;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=1.004;entryPerimeter=0;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-160" target="aTxPhsPDwdjpoUrH5r-v-146">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
-            </mxGeometry>
+            <mxGeometry width="100" height="100" relative="1" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="VpOZRImWIGP0" id="aTxPhsPDwdjpoUrH5r-v-164">
@@ -174,24 +172,36 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-169" target="aTxPhsPDwdjpoUrH5r-v-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Spanish" lucidchartObjectId="YrOZo3ADtBTB" id="aTxPhsPDwdjpoUrH5r-v-169">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
             <mxGeometry x="905.86" y="302" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-170" target="aTxPhsPDwdjpoUrH5r-v-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="German" lucidchartObjectId="YrOZrPRo0wzg" id="aTxPhsPDwdjpoUrH5r-v-170">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="905.86" y="392" width="111" height="60" as="geometry" />
+            <mxGeometry x="911" y="429.5" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-171" target="aTxPhsPDwdjpoUrH5r-v-238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Dutch" lucidchartObjectId="YrOZ6GHuChBZ" id="aTxPhsPDwdjpoUrH5r-v-171">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="905.86" y="482" width="111" height="60" as="geometry" />
+            <mxGeometry x="905.86" y="560" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-172" target="aTxPhsPDwdjpoUrH5r-v-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Norwgian" lucidchartObjectId="YrOZnq7VTXp8" id="aTxPhsPDwdjpoUrH5r-v-172">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="905.86" y="572" width="111" height="60" as="geometry" />
+            <mxGeometry x="911" y="681" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="8rOZ7X~yXJDq" id="aTxPhsPDwdjpoUrH5r-v-173">
@@ -222,9 +232,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-177" target="aTxPhsPDwdjpoUrH5r-v-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="English" lucidchartObjectId="qsOZoRuWQ4cu" id="aTxPhsPDwdjpoUrH5r-v-177">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="905.86" y="662" width="111" height="60" as="geometry" />
+            <mxGeometry x="911" y="811" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="AsOZUD6VO1pV" id="aTxPhsPDwdjpoUrH5r-v-178">
@@ -234,9 +247,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-179" target="aTxPhsPDwdjpoUrH5r-v-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="German" lucidchartObjectId="ltOZLlZ9kkQ_" id="aTxPhsPDwdjpoUrH5r-v-179">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="1674.86" y="302" width="111" height="60" as="geometry" />
+            <mxGeometry x="1769.86" y="302" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="utOZbARycSxN" id="aTxPhsPDwdjpoUrH5r-v-180">
@@ -248,17 +264,17 @@
         </UserObject>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-181" target="aTxPhsPDwdjpoUrH5r-v-149">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1829.86" y="272" as="targetPoint" />
+            <mxPoint x="2671.8599999999997" y="272" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="German" lucidchartObjectId="9tOZ.i9aaJHR" id="aTxPhsPDwdjpoUrH5r-v-181">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="1884.86" y="302" width="111" height="60" as="geometry" />
+            <mxGeometry x="2726.8599999999997" y="302" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="German" lucidchartObjectId="~tOZXUMlGgSw" id="aTxPhsPDwdjpoUrH5r-v-182">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2094.8599999999997" y="302" width="111" height="60" as="geometry" />
+            <mxGeometry x="2936.8599999999997" y="302" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="yuOZfYryZhUf" id="aTxPhsPDwdjpoUrH5r-v-183">
@@ -273,7 +289,7 @@
         </mxCell>
         <UserObject label="English" lucidchartObjectId="XuOZXQvgG2YF" id="aTxPhsPDwdjpoUrH5r-v-184">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="1674.86" y="392" width="111" height="60" as="geometry" />
+            <mxGeometry x="1769.86" y="424" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTxPhsPDwdjpoUrH5r-v-185" target="aTxPhsPDwdjpoUrH5r-v-149">
@@ -281,12 +297,12 @@
         </mxCell>
         <UserObject label="English" lucidchartObjectId="2uOZBfirKI~L" id="aTxPhsPDwdjpoUrH5r-v-185">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="1884.86" y="392" width="111" height="60" as="geometry" />
+            <mxGeometry x="2726.8599999999997" y="392" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="English" lucidchartObjectId="6uOZ7QqMrSAc" id="aTxPhsPDwdjpoUrH5r-v-186">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2094.8599999999997" y="392" width="111" height="60" as="geometry" />
+            <mxGeometry x="2936.8599999999997" y="392" width="111" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="vvOZ_V.a8kea" id="aTxPhsPDwdjpoUrH5r-v-187">
@@ -303,7 +319,7 @@
         </UserObject>
         <UserObject label="JeffersonWells" lucidchartObjectId="0xOZuvp.iQ-n" id="aTxPhsPDwdjpoUrH5r-v-190">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2184.8599999999997" y="179" width="141" height="90" as="geometry" />
+            <mxGeometry x="3026.8599999999997" y="179" width="141" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="syOZ8xI1rzLD" id="aTxPhsPDwdjpoUrH5r-v-191">
@@ -315,17 +331,17 @@
         </UserObject>
         <UserObject label="" lucidchartObjectId="DyOZaOJNVXdg" id="aTxPhsPDwdjpoUrH5r-v-192">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/51056cdc-0ba3-4a64-ba9e-0398a73ba7a8/content;imageAspect=0;" vertex="1" parent="1">
-            <mxGeometry x="2176.8599999999997" y="242" width="156" height="23" as="geometry" />
+            <mxGeometry x="3018.8599999999997" y="242" width="156" height="23" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-194" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sae1stlrsmpgnonprdshb2c.z6.web.core.windows.net/Stegmann-Email-Banner-1200x200.jpg;" vertex="1" parent="1">
-          <mxGeometry x="1756.12" y="242" width="158.48" height="23" as="geometry" />
+          <mxGeometry x="2597.12" y="242" width="158.48" height="23" as="geometry" />
         </mxCell>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-199" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sae1stlrsmpgnonprdshb2c.z6.web.core.windows.net/StegPLUS-Email-Banner-1200x200.jpg;" vertex="1" parent="1">
-          <mxGeometry x="1947.9799999999998" y="235.93000000000006" width="194.77" height="29.07" as="geometry" />
+          <mxGeometry x="2789.9799999999996" y="235.93000000000006" width="194.77" height="29.07" as="geometry" />
         </mxCell>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-200" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sae1stlrsmpgnonprdshb2c.z6.web.core.windows.net/EXP_Notification_Email_Header_Image.png;" vertex="1" parent="1">
-          <mxGeometry x="1549" y="243.05" width="158.48" height="23" as="geometry" />
+          <mxGeometry x="1643" y="243.05" width="158.48" height="23" as="geometry" />
         </mxCell>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-201" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sae1stlrsmpgnonprdshb2c.z6.web.core.windows.net/EXP_Notification_Email_Header_Image.png;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="3" y="242" width="143.73" height="24.05" as="geometry" />
@@ -334,13 +350,13 @@
           <mxGeometry x="241.86" y="279" width="491" height="105" as="geometry" />
         </mxCell>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-218" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_ES_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevspain.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.es&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for Spain Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="241.86" y="407" width="491" height="105" as="geometry" />
+          <mxGeometry x="241.86" y="414" width="491" height="105" as="geometry" />
         </mxCell>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-221" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_DE_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevgermany.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.de&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for Germany Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="249.36" y="546" width="503.5" height="105" as="geometry" />
+          <mxGeometry x="241.86" y="548" width="503.5" height="105" as="geometry" />
         </mxCell>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-223" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_NL_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevnetherlands.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.nl&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for Netherlands Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="249.36" y="689.5" width="519.5" height="105" as="geometry" />
+          <mxGeometry x="241.86" y="687.5" width="519.5" height="105" as="geometry" />
         </mxCell>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-225" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_NO_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevnorway.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.no&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for Norway Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
           <mxGeometry x="249.36" y="832.5" width="491" height="105" as="geometry" />
@@ -350,6 +366,24 @@
         </mxCell>
         <mxCell id="aTxPhsPDwdjpoUrH5r-v-229" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_US_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevus.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.com&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for US Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
           <mxGeometry x="249.36" y="1120" width="491" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-234" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_FI_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevfinland.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.fi&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for Finland Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="279.5" width="491" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-236" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_FI_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevfinland.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.fi&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for Finland Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="408" width="491" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-238" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_FI_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevfinland.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.fi&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for Finland Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="538" width="491" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-240" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_FI_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevfinland.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.fi&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for Finland Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="658" width="491" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-242" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_FI_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevfinland.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.fi&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for Finland Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="788.5" width="491" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="aTxPhsPDwdjpoUrH5r-v-244" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CPolicy&quot;: &quot;B2C_1A_SIGNUP_SIGNIN_FI_EXP&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;B2CClientId&quot;: &quot;23466190-6cce-41c7-a173-fbb1f42fca00&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;B2CRedirectUri&quot;:&quot;https://experisdevfinland.manpowergroup.com&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPFromAddress&quot;: &quot;verify@experis.fi&quot;,&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&quot;SMTPSubject&quot;: &quot;Verification Mail for Finland Experis Account&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16.7;strokeColor=#3a414a;fontColor=#3a414a;spacing=9;rounded=1;arcSize=9;strokeWidth=0.8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="279.5" width="491" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
