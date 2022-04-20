@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T11:19:44.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44" etag="0ucx-TdgZCMljUh9cEP4" version="17.4.4" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7Vptc6I6FP41frw7vAjVj9Xa7p3rznZqd/o5Qiq5jQkbwir76zfBpIjxBa4FuR1nbCWHA5jnec7JORl67ni5fmAgjr7REOKeY4XrnnvXcxzbcVzxJS2Ztrj2xrJgKFS2wjBDv6EyWsqaohAmJUdOKeYoLhsDSggMeMkGGKOrstsrxeWnxmABDcMsANi0vqCQRxvrwLMK+1eIFpF+sm2pM0ugnZUhiUBIV1smd9Jzx4xSvjlarscQS/Q0Lpvr7g+cff9hDBJe5QKXpKP7NRsG2dSKyfeXZwc8/KXu8gvgVE34cfL0j7D8eBT/Xv5+/iq+bsXf9Pb5eaImwjONjphTLA85mEvTKIgQDqcgoynXVj0aJRwwrgjuW9KZYgziBOWX3kkLg0HKEvQLPsFk4yitcB0DEqrBK8J4TDFlYkwokQ99pYTP1G/ag4qeImQcrrdMCqUHSJeQs0y46LOaQqXZGzVcFfz72hZtce/q64DS3OL91gUt4kAxU4Mlx2DJYAKGQrZqSBmP6IISgCeFdcRoSkKocSx8ppTGOXLu6F/IeaYoAimnwhTxJVZnTWiPSSqhKQvgEb8bFc2ALeDR+ylHOcOj9DGIARfiKeeAj+bCNbgYpwkXN2fHo+NJxv4oogz9FnoFWPGQrNASAyKSCAh3TCOaZ01p4jlF8gjDV64O55SL5+rQUTo8ECMxRYTnUHgj8RFCHVtfvJ4nfuZYjO1iLD7SnfExJQlnAOVkQ5DwFUw+MI5LQVtXXBWCWQVvv2Lw2oOmgrdvCOYe5qskR0yEoyEaxX5lbaiVDxTw7+H/oqS5lUlbHyTNdlslzetwgu1XTLB+xQTbrfzqG+Eyk9o1+CjQltCtIsThLAY5ICtRi5aRBSxQqHtWbaCr69YpFw6+KePhHhX3mxLxjZl5kIhlx5oDhkRGOIKpdRrTlkC0nQujODBQ/AbeoAwsBkgCAo4ouWbxfXX0nsLZbXftHRrcPcGfqaxjHEskMw5bCYFBXeS6FgK6Gd/CcZRm3cbQ9roGotlrq0Iwhuwtu6aQPSR6l68E7U732lWbbVtBf7rbVut1R6pB22y37xgib63mHrv2FlLHCkHb7EEnxGw9Wyipz4by8mncM9fCA+X0df/n8vs/zh697N0Aam4BMTvaC6z1rRPlVWaq5qZPc0SZ/fIDg1D2CsGhLd5Glhu/LnQ7OfLiKdJsma+KP6dBbk7yZoNsMNWhalfp6mS1qwPgZLWrp9uRatcx++zbIICxSEE+lmvvXGQgfyGPYpAtJVqtJKSzm+9LZyTH7L1fGJLtgxVCDhBOTITlrp5I/PHBsi6kQZpzcBLn+YaU6bxx4Her5Wq4+43h7hi4q83T/d2bhjZmNIBJUgFZELwtcs1/TzlGpG7Org+w3zFlmw3yda09ZyepsbXWMZvwLq+1FZdau+prHMOPXmnzS28ZA9mWg+pzizs/SsPWwrQbvv7OS1Mn/PU+YyGEzS8oZPE+lTOUYm4xfAKlDKvWZHa3arIK7fv/j4z3dylP7gdbnYhb16oXt7v+7cStuYHwCaRiV26mPlwq5wXu4BOArxV0Ok7dTsSp59aL011/vb3/H+NUDIsXqjfuxXvp7uQP</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-20T11:36:06.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44" etag="hRZy7GKg4CygcUk44C1v" version="17.4.4" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="820" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-1" value="User" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="200" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-6" value="User Browse the Italy Experis Application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="sa4HycfGTbBcu0VxZXdj-1">
+          <mxGeometry x="40" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-12" value="Pass user credentials Registered in ADB2C" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="sa4HycfGTbBcu0VxZXdj-1">
+          <mxGeometry x="40" y="134" width="120" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-16" value="Click Sign In" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="sa4HycfGTbBcu0VxZXdj-1">
+          <mxGeometry x="60" y="210" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sa4HycfGTbBcu0VxZXdj-1" source="sa4HycfGTbBcu0VxZXdj-12" target="sa4HycfGTbBcu0VxZXdj-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="270" as="sourcePoint" />
+            <mxPoint x="210" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-3" value="GWTP Application" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="200" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sa4HycfGTbBcu0VxZXdj-3" source="sa4HycfGTbBcu0VxZXdj-9" target="sa4HycfGTbBcu0VxZXdj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-9" value="Homepage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sa4HycfGTbBcu0VxZXdj-3">
+          <mxGeometry x="40" y="53" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-10" value="Login Page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="sa4HycfGTbBcu0VxZXdj-3">
+          <mxGeometry x="40" y="136.5" width="120" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-20" value="Authentication Process" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="sa4HycfGTbBcu0VxZXdj-3">
+          <mxGeometry x="50" y="250" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-26" value="Manpower Application Landing Page" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="sa4HycfGTbBcu0VxZXdj-3">
+          <mxGeometry x="37" y="410" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sa4HycfGTbBcu0VxZXdj-3" source="sa4HycfGTbBcu0VxZXdj-20" target="sa4HycfGTbBcu0VxZXdj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-4" value="AD B2C" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="200" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="sa4HycfGTbBcu0VxZXdj-4" source="sa4HycfGTbBcu0VxZXdj-24" target="sa4HycfGTbBcu0VxZXdj-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-24" value="User Login API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sa4HycfGTbBcu0VxZXdj-4">
+          <mxGeometry x="60" y="206" width="120" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-28" value="REST API Call to &lt;br&gt;Bhoomi to &lt;br&gt;retrieve Bullhorn ID(candidate ID)" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="sa4HycfGTbBcu0VxZXdj-4">
+          <mxGeometry x="45" y="288" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-5" value="AD B2C Sign In Process Italy Experis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sa4HycfGTbBcu0VxZXdj-6" target="sa4HycfGTbBcu0VxZXdj-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sa4HycfGTbBcu0VxZXdj-10" target="sa4HycfGTbBcu0VxZXdj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sa4HycfGTbBcu0VxZXdj-16" target="sa4HycfGTbBcu0VxZXdj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sa4HycfGTbBcu0VxZXdj-16" target="sa4HycfGTbBcu0VxZXdj-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="290" as="sourcePoint" />
+            <mxPoint x="520" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-23" value="Call API Response" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="sa4HycfGTbBcu0VxZXdj-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sa4HycfGTbBcu0VxZXdj-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="sa4HycfGTbBcu0VxZXdj-24" target="sa4HycfGTbBcu0VxZXdj-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="240" as="sourcePoint" />
+            <mxPoint x="420" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
